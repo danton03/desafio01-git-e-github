@@ -1,4 +1,4 @@
-# Desafio 01 DIO - Git/GitHub
+# Desafio 01 - Git/GitHub
 Primeiro desafio do Bootcamp Banco Pan Java Developer em parceria com a DIO.
 
 ### Objetivo:
